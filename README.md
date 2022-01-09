@@ -1,2 +1,2 @@
 # curso-html5-css3
- O curso que estou fazendo de HTML5 e CSS3
+ Curso do Guanabara de HTML5 e CSS3
